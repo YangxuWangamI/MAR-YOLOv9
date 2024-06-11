@@ -1,0 +1,7 @@
+train: F:/WEDU/train/images  # train images
+val: F:/WEDU/test/images  # val images
+test: F:/WEDU/test/images  # test images
+
+# Classes
+names:
+  0: label
